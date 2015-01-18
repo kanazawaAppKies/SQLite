@@ -91,7 +91,7 @@ public class MainActivity extends Activity {
 
         	String row = id + "   " + name+"\n"
         				+latitude+"\t"+longitude+"\n"
-        				+"open "+open/100+":"+open%100+ "   "+"close "+close/100+":"+close%100;
+        				+"open "+open/100+":"+open%100+ "   "+"close "+close/100+":"+close%100+"\n";
 
         	ad.add(row);
 
